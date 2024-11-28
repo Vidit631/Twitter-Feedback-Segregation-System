@@ -12,19 +12,6 @@ Carefully listening to voice of the customer on Twitter using sentiment analysis
 
 <br/>
 
-## **SCOPE**
-- We would start implementing on a smaller scale. Twitter's Tweepy API allows us to mine all data there is, but under the duration of 1 week. Whatever we do next, would be constrained within this time period.
-- For Multiple Weeks of data we would require large storage and high computing power. Once satisfied with our outputs, we will try to expand it on a larger scale. 
-- Our Application would work for any small or large company, brand or organisation.
-
-<br/>
-
-## **FUNCTIONAL REQUIREMENTS**
-- The applications should segregate tweets into positive and negative feedbacks.
-- Graph should be shown according to the feedback received.
-- Data should be available to the user in a downloadable format.
-- Must Be a Responsive Web Based Applications
-
 <br/><br/>
 
 ## **SOFTWARE DESIGN**
